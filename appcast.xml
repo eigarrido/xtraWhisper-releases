@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>xtraWhisper</title>
+    <link>https://github.com/eigarrido/xtraWhisper-releases</link>
+    <description>Updates de xtraWhisper</description>
+    <language>es</language>
+    <item>
+      <title>Versión 0.3.3</title>
+      <pubDate>Fri, 15 May 2026 20:43:33 -0300</pubDate>
+      <sparkle:version>1778888616</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Limpieza: seed de reemplazos vaciado del binario distribuido. Texturas decorativas revertidas. Cada usuario configura sus propios términos en la pestaña Reemplazos/Diccionario.</description>
+      <enclosure url="https://github.com/eigarrido/xtraWhisper-releases/releases/download/v0.3.3/xtraWhisper-0.3.3.zip" length="3076647" type="application/octet-stream" sparkle:edSignature="5LL/io/jFCQheS6jvDFHF8DSKQKwqWJcdsR3IPVmYZV9nRlWjfCFlsEaVYMYJ28NhvrjzPpkzfaRrZQzRRt9DA==" />
+    </item>
+  </channel>
+</rss>
