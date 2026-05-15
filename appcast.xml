@@ -6,6 +6,15 @@
     <description>Updates de xtraWhisper</description>
     <language>es</language>
     <item>
+      <title>Versión 0.3.2</title>
+      <pubDate>Fri, 15 May 2026 20:03:16 -0300</pubDate>
+      <sparkle:version>1778886199</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Ventana principal con fondo translúcido (blur), logo del sidebar más grande, designated requirement laxo para no perder grants de Accesibilidad en updates futuros.</description>
+      <enclosure url="https://github.com/eigarrido/xtraWhisper-releases/releases/download/v0.3.2/xtraWhisper-0.3.2.zip" length="3076787" type="application/octet-stream" sparkle:edSignature="k0tA3VqOddGkaHe4+/kkxpGTPNnakWzmMKMpf033xKygd38nWsYZd2O1KNWDv+BL2BFAo2E1tK9An0UuXjuDCA==" />
+    </item>
+    <item>
       <title>Versión 0.3.1</title>
       <pubDate>Fri, 15 May 2026 19:44:20 -0300</pubDate>
       <sparkle:version>1778885060</sparkle:version>
