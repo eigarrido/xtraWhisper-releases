@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>xtraWhisper</title>
+    <link>https://github.com/eigarrido/xtraWhisper-releases</link>
+    <description>Updates de xtraWhisper</description>
+    <language>es</language>
+    <item>
+      <title>Versión 0.3.0</title>
+      <pubDate>Fri, 15 May 2026 19:31:21 -0300</pubDate>
+      <sparkle:version>1778884284</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Primera versión con auto-update via Sparkle. Click derecho → Open la primera vez para saltarte el warning de Gatekeeper. De ahí en más, las próximas versiones llegan solas.</description>
+      <enclosure url="https://github.com/eigarrido/xtraWhisper-releases/releases/download/v0.3.0/xtraWhisper-0.3.0.zip" length="3067037" type="application/octet-stream" sparkle:edSignature="AuJPdFuNL5CT2leXNNienk0jKX8Z58bKHrIzcw0pO9oPmz1il3bCR5NS8EN59kWqX4r+5iI8u2pOPnfhsjxSCw==" />
+    </item>
+  </channel>
+</rss>
