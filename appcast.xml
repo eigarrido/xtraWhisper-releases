@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>xtraWhisper</title>
     <link>https://github.com/eigarrido/xtraWhisper-releases</link>
     <description>Updates de xtraWhisper</description>
     <language>es</language>
+    <item>
+      <title>Versión 0.3.1</title>
+      <pubDate>Fri, 15 May 2026 19:44:20 -0300</pubDate>
+      <sparkle:version>1778885060</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>i18n: detección automática del idioma del sistema (ES/EN/PT). Toda la UI ahora se muestra en el idioma del SO.</description>
+      <enclosure url="https://github.com/eigarrido/xtraWhisper-releases/releases/download/v0.3.1/xtraWhisper-0.3.1.zip" length="3077747" type="application/octet-stream" sparkle:edSignature="s4DB8Q5jBXyIHlJRpBOFO1pUWMLp9+JCAgbx8oYjRhzm2rRIWLsuIqMmUbJJDyk41GMBImuYf5PaJVVsagubAA==" />
+    </item>
     <item>
       <title>Versión 0.3.0</title>
       <pubDate>Fri, 15 May 2026 19:31:21 -0300</pubDate>
